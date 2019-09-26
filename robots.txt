@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://repilohcha.gleninocencio.com/sitemap.xml
